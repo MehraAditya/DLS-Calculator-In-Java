@@ -147,7 +147,7 @@ public class T20Frame extends JFrame implements ActionListener {
      
     
     }else{
-        JOptionPane.showMessageDialog(null,"The Par Score is : 190");
+        JOptionPane.showMessageDialog(null,"The Par Score is :"+ParScore);
         setVisible(true);
        
         
