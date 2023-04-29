@@ -147,7 +147,7 @@ public class ODIFrame extends JFrame implements ActionListener {
      
     
     }else{
-        JOptionPane.showMessageDialog(null,"The par score is : 360");
+        JOptionPane.showMessageDialog(null,"The par score is : "+ParScore);
         setVisible(true);
        
         
